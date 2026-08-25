@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Anjali84a/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/Anjali84a/Leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Anjali84a/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anjali84a/Leetcode/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Anjali84a/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
