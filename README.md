@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Anjali84a/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali84a/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali84a/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjali84a/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali84a/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Anjali84a/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Anjali84a/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
