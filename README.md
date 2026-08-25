@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anjali84a/Leetcode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Anjali84a/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
