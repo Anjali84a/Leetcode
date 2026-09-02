@@ -7,11 +7,13 @@
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         ans=[]
-        if root is None:
-            return ans
-        ans.append(root.val)
-        ans+=self.preorderTraversal(root.left)
-        ans+=self.preorderTraversal(root.right)
+        def preorder(root):
+            if root is None:
+                return ans
+            ans.append(root.val)
+            preorder(root.left)
+            preorder(root.right)
+        preorder(root)
         return ans
 
         
