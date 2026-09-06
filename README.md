@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anjali84a/Leetcode/tree/master/0020-valid-parentheses) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Anjali84a/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
