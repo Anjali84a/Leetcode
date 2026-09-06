@@ -8,7 +8,6 @@ class Solution:
             if arr[i]==0:
                 ans.append(arr[i])
                 ans.append(arr[i])
-                
             else:
                 ans.append(arr[i])
         for i in range(len(arr)):
