@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Anjali84a/Leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjali84a/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Anjali84a/Leetcode/tree/master/0268-missing-number) |
+| [1025-divisor-game](https://github.com/Anjali84a/Leetcode/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anjali84a/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Binary Search
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Anjali84a/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali84a/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali84a/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1025-divisor-game](https://github.com/Anjali84a/Leetcode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -161,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Anjali84a/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anjali84a/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali84a/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Anjali84a/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Anjali84a/Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Anjali84a/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
