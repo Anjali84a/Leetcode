@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anjali84a/Leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Anjali84a/Leetcode/tree/master/0054-spiral-matrix) |
+| [0120-triangle](https://github.com/Anjali84a/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali84a/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali84a/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjali84a/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Anjali84a/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali84a/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali84a/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
