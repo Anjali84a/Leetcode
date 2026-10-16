@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anjali84a/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anjali84a/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali84a/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0740-delete-and-earn](https://github.com/Anjali84a/Leetcode/tree/master/0740-delete-and-earn) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anjali84a/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Anjali84a/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anjali84a/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anjali84a/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anjali84a/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali84a/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0740-delete-and-earn](https://github.com/Anjali84a/Leetcode/tree/master/0740-delete-and-earn) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali84a/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali84a/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali84a/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0279-perfect-squares](https://github.com/Anjali84a/Leetcode/tree/master/0279-perfect-squares) |
+| [0740-delete-and-earn](https://github.com/Anjali84a/Leetcode/tree/master/0740-delete-and-earn) |
 | [1025-divisor-game](https://github.com/Anjali84a/Leetcode/tree/master/1025-divisor-game) |
 | [1402-reducing-dishes](https://github.com/Anjali84a/Leetcode/tree/master/1402-reducing-dishes) |
 ## Greedy
