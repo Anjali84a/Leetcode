@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Anjali84a/Leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjali84a/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Anjali84a/Leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Anjali84a/Leetcode/tree/master/0279-perfect-squares) |
 | [1025-divisor-game](https://github.com/Anjali84a/Leetcode/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anjali84a/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Binary Search
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Anjali84a/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali84a/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjali84a/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/Anjali84a/Leetcode/tree/master/0279-perfect-squares) |
 | [1025-divisor-game](https://github.com/Anjali84a/Leetcode/tree/master/1025-divisor-game) |
 | [1402-reducing-dishes](https://github.com/Anjali84a/Leetcode/tree/master/1402-reducing-dishes) |
 ## Greedy
@@ -201,4 +203,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anjali84a/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Anjali84a/Leetcode/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Anjali84a/Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Anjali84a/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
